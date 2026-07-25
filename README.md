@@ -4,10 +4,7 @@
 </p>
 
 
-## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technocodech&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technocodech&layout=compact&theme=github_dark) |
-| --- | --- |
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=technocodech&theme=github-dark-blue)
