@@ -1,20 +1,8 @@
-# 👋 Hi there, I'm TechnoCodech
-
 <!-- Banner Profil -->
 <p align="center">
   <img src="cyber-profile.svg" width="100%" alt="Banner Profil Ikrom Maulana"/>
 </p>
 
-## 🚀 About Me
-Full Stack Developer | Network Engineer | Linux Enthusiast
-
-## 💻 Tech Stack
-- Python
-- JavaScript
-- Linux
-- Networking
-- MikroTik
-- Backend Development
 
 ## 📊 GitHub Stats
 
