@@ -170,7 +170,7 @@
     <!-- ============================================================ -->
     <!-- AVATAR IMAGE - REPLACE avatar.png WITH YOUR PHOTO            -->
     <!-- ============================================================ -->
-    <image href="avatar.png" x="40" y="130" width="160" height="160" clip-path="url(#avatarClip)" opacity="0.75"/>
+    <image src="avatar.png" x="40" y="130" width="160" height="160" clip-path="url(#avatarClip)" opacity="0.75"/>
 
     <!-- Holographic Overlay -->
     <circle cx="120" cy="210" r="80" fill="url(#hologramGrad)" clip-path="url(#avatarClip)"/>
