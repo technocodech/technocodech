@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm TechnoCodech
 
+<!-- Banner Profil -->
 <p align="center">
-  <img src="./cyber-profile.svg" width="100%">
+  <img src="cyber-profile.svg" width="100%" alt="Banner Profil Ikrom Maulana"/>
 </p>
 
 ## 🚀 About Me
