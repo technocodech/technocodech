@@ -10,13 +10,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=technocodech&theme=github-dark-blue)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/technocodech)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/technocodech)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/technocodech)
+📫 Connect with Me
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=technocodech&theme=darkhub&no-frame=true)
-
----
-
+""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/ikr.maulana422)
+""Telegram" (https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)" (https://t.me/technocode422)
+""GitHub" (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/technocodech)
 ⭐️ From [technocodech](https://github.com/technocodech)
